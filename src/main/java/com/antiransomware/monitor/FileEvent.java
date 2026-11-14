@@ -2,7 +2,6 @@ package com.antiransomware.monitor;
 
 import java.nio.file.Path;
 import java.time.Instant;
-import java.util.Arrays;
 import java.util.Objects;
 import java.util.Optional;
 
